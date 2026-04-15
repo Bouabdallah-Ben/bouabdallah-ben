@@ -8,17 +8,25 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left" style="display:flex; gap:10px;">
-  <a href="https://twitter.com/bouabdallah_be" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/bouabdallah-benarbia" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/bouabdallah.benarbia" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://twitter.com/bouabdallah_be" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/bouabdallah-benarbia" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://instagram.com/bouabdallah.benarbia" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
